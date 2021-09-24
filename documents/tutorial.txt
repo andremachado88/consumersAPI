@@ -1,0 +1,14 @@
+npm init
+npm install express
+npm add @types/express
+npm tsc --init 
+npm install -g yarn
+yarn set version latest
+yarn init
+yarn install 
+yarn tsc --init
+yarn add ts-node-dev -D
+
+
+
+Iniciar : yarn dev:server
